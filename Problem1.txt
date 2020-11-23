@@ -1,0 +1,1 @@
+To solve this problem, I hadnot used specific alogrithm. I had just used function and for loop to get the last ten digits of the series. 
